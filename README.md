@@ -1,4 +1,4 @@
-# HANA Suci Aninda Geofani  
+# Hana Suci Aninda Geofani  
 **Data Analyst | Web & Business Development | Software Engineering | Backend Enthusiast**
 
 Hi, I'm Hana. I enjoy creating and constantly learning new things. My main focus is on **crafting cool API projects for companies** and **diving deep into data analysis** to derive meaningful insights for business decisions. I'm proficient in **PHP, SQL, Python**, and love dabbling in **web testing** and backend development.  
