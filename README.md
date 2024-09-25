@@ -1,4 +1,4 @@
-# Hana Suci Aninda Geofani  
+# HANA Suci Aninda Geofani  
 **Data Analyst | Web & Business Development | Software Engineering | Backend Enthusiast**
 
 Hi, I'm Hana. I enjoy creating and constantly learning new things. My main focus is on **crafting cool API projects for companies** and **diving deep into data analysis** to derive meaningful insights for business decisions. I'm proficient in **PHP, SQL, Python**, and love dabbling in **web testing** and backend development.  
@@ -17,7 +17,7 @@ I find joy in exploring data, understanding patterns, and experimenting with dif
 
 ## 💻 Tech Skills:
 - **Programming Languages:**  
-  PHP, Python, SQL, JavaScript
+  PHP, Python, SQL, JavaScript, HTML, CSS, Golang
   
 - **Data Tools & Technologies:**  
   Pandas, NumPy, Matplotlib, Power BI, MySQL, PostgreSQL
@@ -27,6 +27,25 @@ I find joy in exploring data, understanding patterns, and experimenting with dif
 
 - **Testing & DevOps:**  
   Selenium, Postman, Docker, GitHub Actions
+
+## 🗃️ Tech Stack:
+| Programming Languages | Frameworks & Libraries | Databases | Tools |
+|-----------------------|------------------------|-----------|-------|
+| C++, CSS3, Java, HTML5, JavaScript, Python, Golang | Express.js, Gulp, Flask, jQuery, Next.js, NodeJS | MySQL, MariaDB, PostgreSQL, Prisma, Sequelize | Docker, GitHub Actions, Arduino, Postman |
+|                       | Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, Scikit-learn, Scipy, TensorFlow, MLflow |           | Figma, Adobe Photoshop |
+
+## 📊 GitHub Stats:  
+![HANA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanageofanii&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats:  
+![HANA's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanageofanii&theme=radical)
+
+## 🔝 Top Contributed Repos:  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanageofanii&layout=compact&theme=radical)
+
+> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+[![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hanageofanii&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔍 Data Analysis Projects:
 I'm always working on projects that challenge my analytical skills. Some of my favorite tasks include:
